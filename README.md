@@ -1,11 +1,11 @@
 # Karman
 
-https://raw.github.com/wiki/Takaaki-Saeki/Karman/gif/pressure.gif
+![demo](https://raw.github.com/wiki/Takaaki-Saeki/Karman/gif/pressure.gif)
 
 ## Overview
-This project is Karman vortex simulation around a square prism. Poisson equation is solved for the analysis of the pressure field, and Kawamura-Kuwahara scheme is used for the analysis of the velocity field. Visualization of pressure field is conducted by using python3.6 + matplotlib (details below).
+This project is Karman vortex simulation around a square prism. Poisson equation is solved for the analysis of the pressure field, and Kawamura-Kuwahara scheme is used for the analysis of the velocity field. Pressure field is visualized by using python3.6 + matplotlib (details below).
 
-## details
+## Details
 ### elements
 |item            |value                |
 |----------------|---------------------|
